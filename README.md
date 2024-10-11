@@ -6,6 +6,7 @@
 - Активировать виртуальное окружение:
   * Windows ```.\venv\Scripts\activate```
   * Linux ```source venv/bin/activate```
+- Установить все зависимости ```pip install -r requirements.txt```
 - Запустить программу командой ```python journal_free/main.py```
 
 ### Возможные проблемы
